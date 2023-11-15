@@ -1,0 +1,39 @@
+/*kaikki tyylit tänne*/
+
+
+
+body {
+    
+    background-color: rgba(16, 158, 163, 0.993);
+}
+#eka, #toka, #kolmas h1 {
+    color: rgb(4, 235, 252);
+}
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+margin-right: auto;
+-webkit-box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.8); 
+box-shadow: 1px 1px 10px 0px rgba(0,0,0,0.8);
+  }
+p {text-align: center;
+    color: black;
+}
+h1 {
+text-align: center;
+}
+/*nav alkaa*/
+nav ul li a {
+
+   
+text-decoration: none;
+}
+nav ul{
+    box-shadow: 2px 2px 7px 1px rgba(28,110,164,0.5);
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+}
+/*nav päättyy*/
